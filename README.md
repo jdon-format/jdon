@@ -1,7 +1,7 @@
 # JDON — JSON-Delimited Object Notation
 
 **JDON** is a compact, LLM-native data format designed for structured data.  
-Inspired by JSON, JDON uses **path-based keys** and **columnar arrays** to reduce token usage while remaining human-readable and machine-parsable.
+Inspired by JSON, JDON uses **columnar arrays** and | (pipe) delimiter to reduce token usage while remaining human-readable and machine-parsable.
 
 ## Key Features
 
